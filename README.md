@@ -9,7 +9,7 @@
 - Just clone the repository on your system & run `main.py`
 
 ## Usage
-1) Choose the color you want to plac the bet on
+1) Choose the color of the turtle you want to place the bet on.
 2) Hope it wins!
     
 ## Coded By:
